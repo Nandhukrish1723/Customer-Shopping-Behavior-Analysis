@@ -86,6 +86,7 @@ requirements.txt
 
 ## Author
 **Nanthagopal Krishnasamy**
+
 Aspiring Data Analyst
 Skills:
 Python | SQL | Power BI | Excel | Pandas | MySQL
