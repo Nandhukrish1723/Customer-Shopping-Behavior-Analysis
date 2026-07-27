@@ -84,7 +84,7 @@ requirements.txt
 - Machine Learning Model
 - Sales Forecasting
 
-## Author
+## Worked By
 **Nanthagopal Krishnasamy**
 
 Aspiring Data Analyst
